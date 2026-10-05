@@ -28,49 +28,23 @@ I'm currently focused on:
 
 ## Skills
 
-**Languages**
+**Languages**<br />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-2965F1?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-1572B0?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+**Frontend**<br />
+<img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/shadcn%2Fui-27272A?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 
-**Frontend**
+**Backend and Databases**<br />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-3C3C3C?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/MERN%20Stack-10B981?style=flat-square" alt="MERN Stack" /> <img src="https://img.shields.io/badge/REST%20APIs-14B8A6?style=flat-square" alt="REST APIs" />
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn%2Fui" />
+**AI and Machine Learning**<br />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-F97316?style=flat-square" alt="AI / ML" /> <img src="https://img.shields.io/badge/OpenAI%20Integration-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Integration" /> <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/OCR-0EA5E9?style=flat-square" alt="OCR" /> <img src="https://img.shields.io/badge/Tesseract-2563EB?style=flat-square" alt="Tesseract" />
 
-**Backend and Databases**
+**APIs, Payments and Realtime**<br />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /> <img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white" alt="Razorpay" /> <img src="https://img.shields.io/badge/Instagram%20Graph%20API-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Graph API" /> <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API" /> <img src="https://img.shields.io/badge/Socket.IO-25C2A0?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" /> <img src="https://img.shields.io/badge/WebRTC-00A8E8?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MERN%20Stack-16A34A?style=flat-square" alt="MERN Stack" />
-
-**AI and Machine Learning**
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square" alt="AI %2F ML" />
-<img src="https://img.shields.io/badge/OpenAI%20Integration-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Integration" />
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" alt="OpenRouter" />
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/OCR-0EA5E9?style=flat-square" alt="OCR" />
-<img src="https://img.shields.io/badge/Tesseract-3B82F6?style=flat-square" alt="Tesseract" />
-
-**APIs and Integrations**
-
-<img src="https://img.shields.io/badge/Instagram%20Graph%20API-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Graph API" />
-<img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube API" />
-<img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square" alt="REST APIs" />
-
-**Tools and Platforms**
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+**Tools and Platforms**<br />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 
 ---
 
