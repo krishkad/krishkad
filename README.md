@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/163848748?v=4" width="120" height="120" alt="krishkad" />
+<img src="assets/banner.png" width="100%" alt="Developer tech stack banner" />
 
 # krishkad
 
