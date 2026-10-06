@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Developer tech stack banner" />
+<img src="assets/banner-1.png" width="100%" alt="Developer tech stack banner" />
 
 # krishkad
 
