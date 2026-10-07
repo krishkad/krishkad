@@ -12,6 +12,10 @@ Full-stack developer building clean, fast web products.
 
 ## About
 
+
+<img src="assets/cat.png" width="100px" alt="Developer tech stack banner" />
+
+
 I'm a full-stack developer who likes building web applications that do one thing well. I care about clear interfaces, typed code, and products that feel simple to use even when the problem behind them isn't.
 
 Most of my work lives in the TypeScript and Next.js ecosystem. I've built tools across a few areas: influencer-marketing software for agencies, real-time communication and video meetings, and photo-focused web apps. Each project taught me something different, from managing complex data flows to handling live connections and building polished UI.
