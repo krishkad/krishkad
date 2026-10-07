@@ -13,15 +13,11 @@ Full-stack developer building clean, fast web products.
 ## About
 
 
-<table>
-<tr>
-<td width="32%" align="center" valign="middle">
+<div align="center">
+  <img src="assets/cat.png" width="250px" alt="Developer tech stack banner" />
+</div>
 
-<img src="assets/cat.png" width="250px" alt="Developer tech stack banner" />
-
-</td>
-
-<td width="68%" valign="top">
+<br>
 
 <h2>Hey, I'm Krrish 👋</h2>
 
@@ -37,18 +33,17 @@ Most of my work lives in the <strong>TypeScript and Next.js</strong> ecosystem. 
 I work across the whole stack, from designing the interface and component structure to shaping the data layer and shipping to production. I prefer small, readable code over clever abstractions, and I'd rather ship something real and improve it than polish an idea that nobody has used.
 </p>
 
-</td>
-</tr>
-</table>
+<h3>Currently focused on</h3>
 
-### Currently focused on
+<ul>
+  <li>🚀 Building production-ready full-stack apps with <strong>Next.js</strong></li>
+  <li>⚡ Real-time features such as <strong>chat and video</strong></li>
+  <li>🎨 Better product design, so what I build is <strong>useful, not just functional</strong></li>
+  <li>🧠 Exploring <strong>AI-powered products and automation</strong></li>
+</ul>
 
-* 🚀 Building production-ready full-stack apps with **Next.js**
-* ⚡ Real-time features such as **chat and video**
-* 🎨 Better product design, so what I build is **useful, not just functional**
-* 🧠 Exploring **AI-powered products and automation**
+<hr>
 
----
 
 
 ## Skills
