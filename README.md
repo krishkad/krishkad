@@ -2,7 +2,7 @@
 
 <img src="assets/banner_v3.png" width="100%" alt="Developer tech stack banner" />
 
-# krishkad
+# 👋 Hi, I'm Krrish Kadam
 
 Full-stack developer building clean, fast web products.
 
