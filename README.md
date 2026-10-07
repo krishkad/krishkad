@@ -13,22 +13,43 @@ Full-stack developer building clean, fast web products.
 ## About
 
 
+<table>
+<tr>
+<td width="32%" align="center" valign="middle">
+
 <img src="assets/cat.png" width="250px" alt="Developer tech stack banner" />
 
+</td>
 
+<td width="68%" valign="top">
+
+<h2>Hey, I'm Krrish 👋</h2>
+
+<p>
 I'm a full-stack developer who likes building web applications that do one thing well. I care about clear interfaces, typed code, and products that feel simple to use even when the problem behind them isn't.
+</p>
 
-Most of my work lives in the TypeScript and Next.js ecosystem. I've built tools across a few areas: influencer-marketing software for agencies, real-time communication and video meetings, and photo-focused web apps. Each project taught me something different, from managing complex data flows to handling live connections and building polished UI.
+<p>
+Most of my work lives in the <strong>TypeScript and Next.js</strong> ecosystem. I've built tools across a few areas — influencer-marketing software for agencies, real-time communication and video meetings, and photo-focused web apps. Each project has taught me something different, from managing complex data flows to handling live connections and building polished UI.
+</p>
 
+<p>
 I work across the whole stack, from designing the interface and component structure to shaping the data layer and shipping to production. I prefer small, readable code over clever abstractions, and I'd rather ship something real and improve it than polish an idea that nobody has used.
+</p>
 
-I'm currently focused on:
+</td>
+</tr>
+</table>
 
-- Building production-ready full-stack apps with Next.js
-- Real-time features such as chat and video
-- Better product design, so what I build is useful and not just functional
+### Currently focused on
+
+* 🚀 Building production-ready full-stack apps with **Next.js**
+* ⚡ Real-time features such as **chat and video**
+* 🎨 Better product design, so what I build is **useful, not just functional**
+* 🧠 Exploring **AI-powered products and automation**
 
 ---
+
 
 ## Skills
 
