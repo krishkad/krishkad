@@ -13,7 +13,7 @@ Full-stack developer building clean, fast web products.
 ## About
 
 
-<img src="assets/cat.png" width="100px" alt="Developer tech stack banner" />
+<img src="assets/cat.png" width="250px" alt="Developer tech stack banner" />
 
 
 I'm a full-stack developer who likes building web applications that do one thing well. I care about clear interfaces, typed code, and products that feel simple to use even when the problem behind them isn't.
